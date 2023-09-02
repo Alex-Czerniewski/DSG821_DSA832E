@@ -3,7 +3,7 @@
 """
 Created on Thu Aug 10 17:04:17 2023
 
-@author: pi
+@author: Alex
 """
 
 import math
