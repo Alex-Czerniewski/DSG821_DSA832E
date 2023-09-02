@@ -2,9 +2,8 @@
 """
 
 https://xlsxwriter.readthedocs.io/working_with_charts.html
-Created on Sat Oct 16 17:06:31 2021
 
-@author: mczerniewski
+@author: Alex
 """
 
 # import xlsxwriter module 
